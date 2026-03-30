@@ -1,17 +1,17 @@
 # Henri Goua
 
-AI systems reliability and evaluation for real-world applications
+Reliable AI systems for decision-making in real-world environments
 
 ---
 
 ## What I do
 
-I focus on understanding, building and evaluating AI systems in real-world settings.
+I focus on understanding, building and evaluating AI systems that support real-world decisions.
 
-My work is centered around:
-- evaluation and failure analysis of AI systems  
+My work centers on:
+- evaluation and reliability of AI systems  
 - decision-support and scoring systems  
-- reliability and robustness of ML pipelines  
+- robustness and failure analysis  
 - information retrieval and LLM-based systems  
 
 ---
@@ -19,10 +19,10 @@ My work is centered around:
 ## Approach
 
 I am particularly interested in:
-- thinking in terms of systems, not just models  
-- evaluating AI beyond standard metrics  
-- understanding failure modes and edge cases  
-- designing AI that supports real decisions  
+- how AI systems behave in real conditions  
+- how to evaluate them beyond standard metrics  
+- how errors impact decisions  
+- how to design systems that remain reliable and usable  
 
 ---
 
