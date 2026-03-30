@@ -1,46 +1,41 @@
 # Henri Goua
 
-AI systems reliability & evaluation for retrieval and decision-making
+AI systems reliability and evaluation for retrieval and decision-making
 
 ---
 
-## About
+## What I do
 
-ENSAI graduate in statistics and data science.  
-I focus on building and evaluating reliable AI systems in real-world environments.
+I focus on understanding, building and evaluating AI systems in real-world settings.
 
 My work is centered around:
 - RAG and retrieval systems
 - evaluation and failure analysis
 - decision-support and scoring systems
-- robustness and reliability of AI pipelines
+- reliability of AI pipelines
 
 ---
 
-## What I focus on
+## Approach
 
-- RAG / retrieval evaluation (groundedness, hallucination, ranking)
-- failure analysis of AI systems
-- calibration and decision-making models
-- building reliable end-to-end AI systems
-
----
-
-## Featured projects
-
-### RAG System Evaluation
-End-to-end evaluation of retrieval + generation pipelines (180+ configurations tested, structured document handling, hybrid retrieval).
-
-### Decision Support System
-Risk scoring and decision support system with explainability and evaluation metrics.
-
-### AI System Evaluation Toolkit
-Tools and methods to analyze failure modes, compare models and improve reliability.
+I am particularly interested in:
+- thinking in terms of systems, not just models  
+- evaluating AI beyond accuracy  
+- understanding failure modes and edge cases  
+- designing AI that supports real decisions  
 
 ---
 
+## Current focus
+
+Building projects around:
+- RAG evaluation and robustness  
+- retrieval quality and ranking  
+- decision-support systems and calibration  
+
+---
 ## Links
 
-- Portfolio: https://beedigoua.github.io  
-- CV: https://beedigoua.github.io/CV_GOUA/?lang=fr  
-- LinkedIn: (ajoute ton lien)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome)](https://beedigoua.github.io)
+[![CV](https://img.shields.io/badge/CV-000?style=for-the-badge&logo=readthedocs)](https://beedigoua.github.io/CV_GOUA/?lang=fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/goua-beedi-henri-a152bb1b2/)
