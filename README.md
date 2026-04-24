@@ -1,14 +1,13 @@
 <h1 align="center">Henri Goua</h1>
-
 <p align="center">
   <a href="https://beedigoua.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://beedigoua.github.io/CV_GOUA/?lang=fr">
-    <img src="https://img.shields.io/badge/CV-1a1a1a?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV-111111?style=flat&logo=readthedocs&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/goua-beedi-henri-a152bb1b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
