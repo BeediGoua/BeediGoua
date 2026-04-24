@@ -1,6 +1,6 @@
 # Henri Goua
 
-**AI systems for real-world decision-making**  
+**AI systems for decision-making in real-world settings**  
 *Evaluation • Reliability • Decision Systems • LLM & Retrieval*
 
 ---
@@ -31,30 +31,36 @@
 
 ## What I do
 
-I build and evaluate AI systems designed to support real-world decisions.
+I work on AI systems where performance matters in real conditions, not only in benchmarks.
 
-My focus:
-- end-to-end system evaluation (not just models)  
-- reliability, robustness and failure analysis  
-- decision-support and scoring systems  
-- retrieval and LLM-based pipelines  
+- build and evaluate end-to-end systems  
+- analyze how design choices impact performance and robustness  
+- design decision-support and scoring systems  
+- work on retrieval and LLM-based pipelines  
+
+---
+
+## Experience highlight
+
+- designed an experimentation pipeline to evaluate RAG systems across 180+ configurations  
+- analyzed how retrieval and generation choices affect robustness and failure modes  
+- built evaluation frameworks combining RAGAS and LLM-as-a-judge  
 
 ---
 
 ## Approach
 
-I care about how systems behave **in practice**, not just in benchmarks.
+I focus on how systems behave **in practice**.
 
 - evaluate beyond standard metrics  
 - understand how errors propagate to decisions  
 - design systems that remain usable under uncertainty  
-- align technical performance with real-world impact  
 
 ---
 
 ## Current focus
 
-- AI system evaluation and robustness  
+- system evaluation and robustness  
 - decision systems and calibration  
 - retrieval pipelines and LLM systems  
 
