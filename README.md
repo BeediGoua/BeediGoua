@@ -65,13 +65,13 @@ A good model is not enough. I focus on how data, models, rules, and evaluation w
   > incomplete data handling, consistency checks, interpretable decisions
 
 - Large-scale credit scoring → risk prediction with calibration and robustness analysis  
-  <sub> > 530k samples, AUC = 0.78, leakage control, model comparison</sub>
+  > 530k samples, AUC = 0.78, leakage control, model comparison
 
 - Decision scoring pipeline → hybrid ML + rule-based system for operational decision-making  
-  <sub>feature engineering, policy rules, reliability checks</sub>
+  > feature engineering, policy rules, reliability checks
 
 - Retrieval-based system evaluation → benchmarking and failure analysis of pipelines  
-  <sub> > 180+ configurations, RAGAS, LLM-as-a-judge</sub>
+  > 180+ configurations, RAGAS, LLM-as-a-judge
 
 ---
 
