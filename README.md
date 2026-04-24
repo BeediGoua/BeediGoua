@@ -61,17 +61,16 @@ A good model is not enough. I focus on how data, models, rules, and evaluation w
 
 <h2>Selected projects</h2>
 
-- BrokerFlow AI
- <sub>decision-support system for credit risk analysis combining ML scoring and business rules</sub> 
+- BrokerFlow AI (decision-support system for credit risk analysis combining ML scoring and business  rules)
   > incomplete data handling, consistency checks, interpretable decisions
 
-- Large-scale credit scoring → risk prediction with calibration and robustness analysis  
+- Large-scale credit scoring (risk prediction with calibration and robustness analysis)
   > 530k samples, AUC = 0.78, leakage control, model comparison
 
-- Decision scoring pipeline → hybrid ML + rule-based system for operational decision-making  
+- Decision scoring pipeline (hybrid ML + rule-based system for operational decision-making)  
   > feature engineering, policy rules, reliability checks
 
-- Retrieval-based system evaluation → benchmarking and failure analysis of pipelines  
+- Retrieval-based system evaluation (benchmarking and failure analysis of pipelines) 
   > 180+ configurations, RAGAS, LLM-as-a-judge
 
 ---
