@@ -16,7 +16,7 @@
 <p align="center">
   <b>AI systems for real-world decision-making</b><br/>
   <sub>Evaluation • Reliability • Decision Systems • LLM & Retrieval</sub><br/>
-  <sub><i>I care about how systems behave when they leave the lab</i></sub>
+  
 </p>
 
 ---
