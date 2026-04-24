@@ -1,4 +1,5 @@
 <h1 align="center">Henri Goua</h1>
+
 <p align="center">
   <a href="https://beedigoua.github.io">
     <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -17,73 +18,89 @@
   <img src="https://img.shields.io/badge/Decision%20Systems-111111?style=flat-square"/>
 </p>
 
-
 <p align="center">
-  <b>AI systems for decision-making in real-world settings</b>
-</p>
-
-<p align="center">
+  <b>AI systems for real-world decision-making</b><br/>
   <sub>Evaluation • Reliability • Decision Systems • LLM & Retrieval</sub><br/>
-  <sub><i>Focus on real-world behavior, not just benchmarks</i></sub>
+  <sub><i>I care about how systems behave when they leave the lab</i></sub>
 </p>
-
 
 ---
 
-<h2>What I do</h2>
+<h2>What I build</h2>
 
-I work on AI systems where performance matters in real conditions, not only in benchmarks.
+I design and evaluate AI systems that are used to support real decisions.
 
-- build and evaluate end-to-end systems  
-- analyze how design choices impact performance and robustness  
-- design decision-support and scoring systems  
-- work on retrieval and LLM-based pipelines  
+- end-to-end pipelines (data → model → decision)  
+- evaluation frameworks for system behavior, not just model metrics  
+- decision-support and scoring systems  
+- retrieval and LLM-based architectures  
+- systems that are usable, testable, and interpretable  
+
+---
+
+<h2>How I think</h2>
+
+Most systems don’t fail because of the model alone, but because of how components interact.
+
+- analyze failure modes across the full pipeline  
+- study how design choices impact robustness  
+- evaluate how errors affect downstream decisions  
+- focus on real-world performance, not isolated benchmarks  
 
 ---
 
 <h2>Experience highlight</h2>
 
-- designed an experimentation pipeline to evaluate RAG systems across 180+ configurations  
-- analyzed how retrieval and generation choices affect robustness and failure modes  
-- built evaluation frameworks combining RAGAS and LLM-as-a-judge  
+- built an experimentation pipeline to evaluate RAG systems across 180+ configurations  
+- identified how retrieval and generation choices affect robustness and failure patterns  
+- designed evaluation approaches combining RAGAS and LLM-as-a-judge  
 
 ---
 
-<h2>Focus</h2>
+<h2>Selected projects</h2>
 
-- RAG systems  
-- reliability and failure analysis  
-- decision-support systems  
+- RAG evaluation system → benchmarking, evaluation protocol, and failure analysis  
+- Decision scoring system → risk scoring, calibration, interpretability, and recommendation  
+- Document AI extraction → information extraction, validation, and quality checks  
+
+---
+
+<h2>Current work</h2>
+
+- system evaluation and robustness  
+- decision systems (scoring, calibration, interpretability)  
+- retrieval pipelines and LLM systems  
+
+---
+
+<h2>Stack</h2>
 
 <p>
-  <sub>Core stack</sub><br/>
+  <sub>Data</sub><br/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+<p>
+  <sub>ML & Systems</sub><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20%2F%20RAG-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Retrieval-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Evaluation-111111?style=flat-square"/>
+</p>
+
+<p>
+  <sub>Engineering</sub><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-<h2>Approach</h2>
-
-I focus on how systems behave **in practice**.
-
-- evaluate beyond standard metrics  
-- understand how errors propagate to decisions  
-- design systems that remain usable under uncertainty  
-
----
-
-<h2>Current focus</h2>
-
-- system evaluation and robustness  
-- decision systems and calibration  
-- retrieval pipelines and LLM systems  
-
----
-
 <h2>Philosophy</h2>
 
-> A good model is not enough.  
-> A system is only valuable if it makes better decisions in the real world.
+> A model can perform well in isolation.  
+> A system is only useful if it leads to better decisions.
