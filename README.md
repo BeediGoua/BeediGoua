@@ -1,5 +1,5 @@
 <h1 align="center">
-  Henri Goua
+  Goua Beedi
   <sub>
     <a href="https://beedigoua.github.io">
       <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=google-chrome&logoColor=white"/>
