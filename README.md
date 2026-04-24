@@ -80,23 +80,32 @@ Most systems don’t fail because of the model alone, but because of how compone
   <sub>Data</sub><br/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Pipelines-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/R-9CA3AF?style=flat-square&logo=r&logoColor=white"/>
 </p>
 
 <p>
-  <sub>ML & Systems</sub><br/>
+  <sub>ML & Decision Systems</sub><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20%2F%20RAG-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Calibration-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Robustness-111111?style=flat-square"/>
+</p>
+
+<p>
+  <sub>LLM & Retrieval Systems</sub><br/>
+  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Retrieval-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Evaluation-111111?style=flat-square"/>
 </p>
 
 <p>
   <sub>Engineering</sub><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
