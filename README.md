@@ -61,10 +61,17 @@ A good model is not enough. I focus on how data, models, rules, and evaluation w
 
 <h2>Selected projects</h2>
 
-- Credit scoring system → risk prediction, calibration, leakage control, and robustness checks  
-- Decision scoring system → ML scoring, rule-based policies, interpretability, and recommendation  
-- RAG evaluation system → benchmarking, evaluation protocol, and failure analysis  
-- Document AI extraction → information extraction, validation, and quality checks  
+- BrokerFlow AI → decision-support system for credit risk analysis combining ML scoring and business rules  
+  <sub>incomplete data handling, consistency checks, interpretable decisions</sub>
+
+- Large-scale credit scoring → risk prediction with calibration and robustness analysis  
+  <sub>530k samples, AUC = 0.78, leakage control, model comparison</sub>
+
+- Decision scoring pipeline → hybrid ML + rule-based system for operational decision-making  
+  <sub>feature engineering, policy rules, reliability checks</sub>
+
+- Retrieval-based system evaluation → benchmarking and failure analysis of pipelines  
+  <sub>180+ configurations, RAGAS, LLM-as-a-judge</sub>
 
 ---
 
