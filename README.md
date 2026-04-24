@@ -62,7 +62,7 @@ A good model is not enough. I focus on how data, models, rules, and evaluation w
 <h2>Selected projects</h2>
 
 - BrokerFlow AI → decision-support system for credit risk analysis combining ML scoring and business rules  
-  <sub> > incomplete data handling, consistency checks, interpretable decisions</sub>
+  > incomplete data handling, consistency checks, interpretable decisions
 
 - Large-scale credit scoring → risk prediction with calibration and robustness analysis  
   <sub> > 530k samples, AUC = 0.78, leakage control, model comparison</sub>
