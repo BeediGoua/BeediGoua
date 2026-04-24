@@ -1,7 +1,9 @@
 # Henri Goua
 
-**AI systems for decision-making in real-world settings**  
-*Evaluation • Reliability • Decision Systems • LLM & Retrieval*
+**AI systems for decision-making in real-world settings**
+
+<sub>Evaluation • Reliability • Decision Systems • LLM & Retrieval</sub>  
+<sub>Focus on how systems behave in practice</sub>
 
 ---
 
@@ -18,13 +20,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/Evaluation-000000?style=flat"/>
+  <b>Core stack:</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+  <br/><br/>
+  <b>Focus:</b><br/>
+  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Reliability-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Decision%20Systems-000000?style=flat-square"/>
 </p>
 
 ---
