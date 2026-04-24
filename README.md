@@ -77,7 +77,7 @@ Most systems don’t fail because of the model alone, but because of how compone
 <h2>Stack</h2>
 
 <p>
-  <sub>Data</sub><br/>
+  <b>Data</b><br/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Pipelines-475569?style=flat-square&logo=apacheairflow&logoColor=white"/>
@@ -85,7 +85,7 @@ Most systems don’t fail because of the model alone, but because of how compone
 </p>
 
 <p>
-  <sub>ML & Decision Systems</sub><br/>
+  <b>ML & Decision Systems</b><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Calibration-7C3AED?style=flat-square&logo=target&logoColor=white"/>
@@ -93,7 +93,7 @@ Most systems don’t fail because of the model alone, but because of how compone
 </p>
 
 <p>
-  <sub>LLM & Retrieval Systems</sub><br/>
+  <b>LLM & Retrieval Systems</b><br/>
   <img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Retrieval-1D4ED8?style=flat-square&logo=elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-0F172A?style=flat-square"/>
@@ -102,12 +102,11 @@ Most systems don’t fail because of the model alone, but because of how compone
 </p>
 
 <p>
-  <sub>Engineering</sub><br/>
+  <b>Engineering</b><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
-
 ---
 
 <h2>Philosophy</h2>
