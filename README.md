@@ -1,25 +1,36 @@
-# Henri Goua
-
-**AI systems for decision-making in real-world settings**
-
-<sub>Evaluation • Reliability • Decision Systems • LLM & Retrieval</sub>  
-<sub>Focus on real-world behavior, not just benchmarks</sub>
-
+<h1 align="center">Henri Goua</h1>
 <p align="center">
   <a href="https://beedigoua.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://beedigoua.github.io/CV_GOUA/?lang=fr">
-    <img src="https://img.shields.io/badge/CV-000?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV-1a1a1a?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/goua-beedi-henri-a152bb1b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Systems-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Evaluation-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Decision%20Systems-111111?style=flat-square"/>
+</p>
+
+
+<p align="center">
+  <b>AI systems for decision-making in real-world settings</b>
+</p>
+
+<p align="center">
+  <sub>Evaluation • Reliability • Decision Systems • LLM & Retrieval</sub><br/>
+  <sub><i>Focus on real-world behavior, not just benchmarks</i></sub>
+</p>
+
+
 ---
 
-## What I do
+<h2>What I do</h2>
 
 I work on AI systems where performance matters in real conditions, not only in benchmarks.
 
@@ -30,7 +41,7 @@ I work on AI systems where performance matters in real conditions, not only in b
 
 ---
 
-## Experience highlight
+<h2>Experience highlight</h2>
 
 - designed an experimentation pipeline to evaluate RAG systems across 180+ configurations  
 - analyzed how retrieval and generation choices affect robustness and failure modes  
@@ -38,13 +49,13 @@ I work on AI systems where performance matters in real conditions, not only in b
 
 ---
 
-## Focus
+<h2>Focus</h2>
 
 - RAG systems  
-- Reliability  
-- Decision systems  
+- reliability and failure analysis  
+- decision-support systems  
 
-<p align="center">
+<p>
   <sub>Core stack</sub><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -54,7 +65,7 @@ I work on AI systems where performance matters in real conditions, not only in b
 
 ---
 
-## Approach
+<h2>Approach</h2>
 
 I focus on how systems behave **in practice**.
 
@@ -64,7 +75,7 @@ I focus on how systems behave **in practice**.
 
 ---
 
-## Current focus
+<h2>Current focus</h2>
 
 - system evaluation and robustness  
 - decision systems and calibration  
@@ -72,7 +83,7 @@ I focus on how systems behave **in practice**.
 
 ---
 
-## Philosophy
+<h2>Philosophy</h2>
 
 > A good model is not enough.  
 > A system is only valuable if it makes better decisions in the real world.
