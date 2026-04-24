@@ -80,25 +80,25 @@ Most systems don’t fail because of the model alone, but because of how compone
   <sub>Data</sub><br/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Pipelines-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/R-9CA3AF?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Pipelines-475569?style=flat-square&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 </p>
 
 <p>
   <sub>ML & Decision Systems</sub><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Calibration-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Robustness-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Calibration-7C3AED?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robustness-DC2626?style=flat-square&logo=shield&logoColor=white"/>
 </p>
 
 <p>
   <sub>LLM & Retrieval Systems</sub><br/>
-  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Retrieval-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FAISS-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Evaluation-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrieval-1D4ED8?style=flat-square&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0F172A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-7C2D12?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Evaluation-059669?style=flat-square&logo=codacy&logoColor=white"/>
 </p>
 
 <p>
