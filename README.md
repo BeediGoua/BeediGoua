@@ -1,21 +1,17 @@
-<h1 align="center">Henri Goua</h1>
-<p align="center">
-  <a href="https://beedigoua.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://beedigoua.github.io/CV_GOUA/?lang=fr">
-    <img src="https://img.shields.io/badge/CV-111111?style=flat&logo=readthedocs&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/goua-beedi-henri-a152bb1b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Evaluation-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Decision%20Systems-111111?style=flat-square"/>
-</p>
+<h1 align="center">
+  Henri Goua
+  <sub>
+    <a href="https://beedigoua.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://beedigoua.github.io/CV_GOUA/?lang=fr">
+      <img src="https://img.shields.io/badge/CV-111111?style=flat&logo=readthedocs&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/goua-beedi-henri-a152bb1b2/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+  </sub>
+</h1>
 
 <p align="center">
   <b>AI systems for real-world decision-making</b><br/>
@@ -38,6 +34,12 @@ I design and evaluate AI systems that are used to support real decisions.
 ---
 
 <h2>How I think</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Systems-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Evaluation-374151?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Decision%20Systems-1F2937?style=flat-square"/>
+</p>
 
 Most systems don’t fail because of the model alone, but because of how components interact.
 
